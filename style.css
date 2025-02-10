@@ -599,7 +599,7 @@ form button{
       padding: 12px;
       text-align: center;
       font-size: 14px;
-      width: 257%;
+      width: 218%;
     }
     /*.fa fa-envelope{
       position: absolute;
@@ -644,17 +644,17 @@ form button{
       text-align: center;
     }
     .head{
-      width: 263%;
+      width: 224%;
     }
     .head img{
       margin-left: 392px;
     }
     .after-head img{
-      width: 263%;
+      width: 224%;
     }
     .your-roots{
       flex-direction: column;
-      width: 744px;
+      width: 620px;
       margin-left: 228px;
     }
     .roots img{
@@ -749,7 +749,7 @@ form button{
   }
   .footer{
     height: 723px;
-    width: 264%; 
+    width: 222%; 
   }
   .foot{
     flex-direction: column;
